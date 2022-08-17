@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Xclusivecyborg 🦁
-
-<h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Xclusivecyborg 🦁</h1>
 <p align='center'>
 </p>
 
