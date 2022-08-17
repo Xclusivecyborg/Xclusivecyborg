@@ -1,11 +1,5 @@
 ### Hi there 👋, I'm Xclusivecyborg 🦁
 
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=xclusivecyborg&count_private=true&theme=default&show_icons=true"></img><br>
-
 <h1> Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
@@ -40,7 +34,7 @@
   </a>
 
    <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="  https://img.shields.io/badge/Python-F567890.svg?&style=for-the-badge&logo=dart&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-F567890.svg?&style=for-the-badge&logo=dart&logoColor=white">
   </a>
 <a href="https://www.firebase.dev/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-430098?style=for-the-badge&logo=firebase&logoColor=white"></a>
 
