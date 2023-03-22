@@ -17,10 +17,7 @@
   </a>  
 
 - 👋 Hi, I’m Ayodeji. Friends call me Xclusivecyborg.
-- 💼 I'm a Mobile Engineer at [Nomba](https://nomba.com/)
-- 👯 I build mobile solutions 💻 with Flutter.
-- 🌱 I’m currently learning Python...
-- 👯 I’m looking to collaborate on mobile engineering projects
+- 💼 I'm a Mobile Engineer at [Nomba](https://nomba.com/) and I build amazing stuff with flutter.
 - 📫Check out my resume: [Here](https://docs.google.com/document/d/1B2mxS2yRezJGUvSQGIeyLPMWeeOCYPW1/edit?usp=sharing&ouid=110970333714634235869&rtpof=true&sd=true)...
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
