@@ -18,7 +18,6 @@
 
 - 👋 Hi, I’m Ayodeji. Friends call me Xclusivecyborg.
 - 💼 I'm a Mobile Engineer at [Nomba](https://nomba.com/) and I build amazing stuff with flutter.
-- 📫Check out my resume: [Here](https://docs.google.com/document/d/1B2mxS2yRezJGUvSQGIeyLPMWeeOCYPW1/edit?usp=sharing&ouid=110970333714634235869&rtpof=true&sd=true)...
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.flutter.dev" target="_blank"> 
@@ -27,8 +26,12 @@
    <a href="https://dart.dev/" target="_blank">
     <img alt="Dart" src="https://img.shields.io/badge/Dart-F37626.svg?&style=for-the-badge&logo=dart&logoColor=white">
   </a>
-
-   <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-F567890.svg?&style=for-the-badge&logo=dart&logoColor=white">
+  
+   <a href="https://www.java.com/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a>
+  
+   <a href="https://www.spring.io/" target="_blank">
+    <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   </a>
 <a href="https://www.firebase.dev/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-430098?style=for-the-badge&logo=firebase&logoColor=white"></a>
